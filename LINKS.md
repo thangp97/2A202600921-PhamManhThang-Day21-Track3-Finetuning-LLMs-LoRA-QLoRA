@@ -20,7 +20,7 @@ model = PeftModel.from_pretrained(base, "hondadream/qwen2.5-3b-vi-lab21-r16")
 
 ## 💻 GitHub Repository
 
-- **Repo**: <điền link GitHub repo của bạn>  <!-- TODO -->
+- **Repo**: https://github.com/thangp97/2A202600921-PhamManhThang-Day21-Track3-Finetuning-LLMs-LoRA-QLoRA
 
 ## 📁 Artifacts trong submission
 
