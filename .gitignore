@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ─── Lab 21 — LoRA adapter checkpoints (nặng ~564MB, đã push lên HuggingFace Hub) ───
+# Giữ ở local nhưng KHÔNG commit lên git — adapter chính thức ở:
+#   https://huggingface.co/hondadream/qwen2.5-3b-vi-lab21-r16
+r8/
+r16/
+r64/
+
+# OMC session state
+.omc/
